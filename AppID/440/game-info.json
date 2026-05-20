@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_save_teammate_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_MEDIC_CHARGE_BLOCKER": {
       "name": "Preventive Medicine",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_spy_callers_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "TF_MEDIC_CHARGE_FRIENDS": {
       "name": "Family Practice",
@@ -1720,7 +1720,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.5"
     },
     "TF_SNIPER_TOP_SCOREBOARD_GRIND": {
       "name": "My Brilliant Career",
@@ -1954,7 +1954,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/034e9b3305abccb1b69af2e0b577f32931171bec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "TF_SPY_KILL_SPY_WITH_KNIFE": {
       "name": "A Cut Above",
@@ -2188,7 +2188,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3611c5090d5f7b0a3195019288660c88f0d7bb42.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "TF_SPY_ACHIEVE_PROGRESS2": {
       "name": "Spy Milestone 2",
@@ -2332,7 +2332,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1c5aeed3324fa77c5e7bdac61d4a934baa3f670.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "TF_SOLDIER_KILL_SNIPER_WHILE_DEAD": {
       "name": "Mutually Assured Destruction",
@@ -3736,7 +3736,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_pickup_money_about_to_expire_bw.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "TF_MVM_COLLECT_MONEY_GRIND": {
       "name": "T-1000000",

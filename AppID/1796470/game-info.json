@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/b7d60d4cb1d25496c5c5d6dc42332132130fab72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "ACH_11": {
       "name": "The End Of Everything",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/382ccd57fda746de0dea79cb003151f97c513b81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.7"
     },
     "ACH_12": {
       "name": "Perfect Landing",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1796470/03a76a3c4e9e76b7d02e24593d429cd7d76a95e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_20": {
       "name": "Perfection",

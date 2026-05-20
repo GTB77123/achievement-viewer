@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "ACH_DEFEAT_BAT": {
       "name": "The Hanged Queen",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1343240/969124934e350ef39f7e891b119c85e05defeee2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.7"
+      "percent": "11.8"
     },
     "ACH_COLLECT_EVERYTHING": {
       "name": "The Great Collector",

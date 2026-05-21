@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/82c96687f92cd02879f095bf36d06b6bf39d32ec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "ach_2": {
       "name": "Outnumbered? No Problem",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/eb9303a1497d7be06e967e739df876da50acf700.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.9"
     },
     "ach_3": {
       "name": "Who's Next?",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/5f51eeae7c1a3606f1df78a7b8aeb6210a196389.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ach_4": {
       "name": "E1M1",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/c4196b5fffbe5a97ebb79da4cbc39949fb1f5183.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "ach_6": {
       "name": "Knee-Deep in the Dead",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/1de4b12bd3a0e8d089fe4b79837a2c4419a0695c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ach_7": {
       "name": "A Toe into Madness",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/4a9da12bc6169eb512e6663d63df7951c2f0e2e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "ach_10": {
       "name": "IDKFA",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/2866c9210ec0652c969be3443a192818f6e1753b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.8"
+      "percent": "21.7"
     },
     "ach_14": {
       "name": "Every Nook and Cranny",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/066ecee88e57a90942bec7193f9ed829b2744b0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.0"
+      "percent": "37.9"
     },
     "ach_16": {
       "name": "Argent Fiend",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/e4b99acf68f33a93f152d761ff7b46596fe626fa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ach_22": {
       "name": "Butcher",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/0b2c73f7f328f45439de25cf5342521d5a1f6aa5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "ach_24": {
       "name": "Juicin' it up",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/3c45735940751eef6260b25062026f2d7eae1003.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "ach_25": {
       "name": "Momentum Shift",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/449e800b5a00e3139758b240219b964631cbffb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "ach_26": {
       "name": "IDDQD",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/379720/9c17bfbeedb25c8a0f9fffaab6fb4c8cc016a594.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.2"
     },
     "ach_31": {
       "name": "Shareware",

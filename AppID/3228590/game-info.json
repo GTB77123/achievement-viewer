@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/37f4bbf6fe131f2585f3e6868419d8d949727fe6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.2"
+      "percent": "95.1"
     },
     "ACH_Die10": {
       "name": "I live... I die. I live... I die. I live... I die.",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.9"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/23907483911cb4ddcd36d7ff59aa700b0ea52e80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "ACH_JazzHands": {
       "name": "Jazz Hands",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ACH_Sanctify2": {
       "name": "Devout Weaponsmith",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",

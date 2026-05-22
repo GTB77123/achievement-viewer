@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/01b9495e493bac872d14b3a54cc9c6e1d966c86b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "WatchDogs_Ach_3": {
       "name": "Basest Base",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/3db96b3e5c4753482ab103d56c466a470d1cd68f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.2"
     },
     "WatchDogs_Ach_18": {
       "name": "Escape Loop",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/c39daa0cc1f127c5b88c890fdb14cd2a49520b98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "WatchDogs_Ach_23": {
       "name": "Black Hat Trick",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/243470/7fcdb8fc57a59291d5e93fe9a21b34e097f158e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.5"
     },
     "WatchDogs_Ach_24": {
       "name": "Revoking Client Privileges",

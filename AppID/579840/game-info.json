@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/075f30d7443ef553934a545e91a38db9c7ae4988.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "worldmap_reached_desert": {
       "name": "Welcome to the heat!",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/8ef5d4a246dac02a4673b681a34b7c378f519808.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "02_cave_secret": {
       "name": "Just in case",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/706402d2254b367d29c0d1911dbcd1b5391bc574.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "09_cave_secret": {
       "name": "Well hidden secret",

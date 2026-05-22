@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ab13fd5fbf467d4e5618c35f8dd315c827e8dd61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "ACH_Die1": {
       "name": "Did I Just Die?",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/37f4bbf6fe131f2585f3e6868419d8d949727fe6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.1"
+      "percent": "95.2"
     },
     "ACH_Die10": {
       "name": "I live... I die. I live... I die. I live... I die.",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3965bc6d50c1c5163a90deead6941d3bd57b7dfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.5"
+      "percent": "2.4"
     },
     "ACH_Sanctify4": {
       "name": "Hallowed Forgemaster",

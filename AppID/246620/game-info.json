@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/2cae25900776ebffafc4a74717abb2928c859331.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.2"
+      "percent": "90.1"
     },
     "A_Brainzzzz": {
       "name": "Brainzzzz",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/45c4540052550d88ccc85cddca554155601964d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "A_BreatheDeep": {
       "name": "Breathe Deep",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/e4a3cf76362d350ce82e8f5efa11e830c3181ed9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.3"
+      "percent": "90.2"
     },
     "A_Runner": {
       "name": "Runner",
@@ -1342,7 +1342,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/d295ed0f8f9bc1250added8223d0c786567e70a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "A_vanhelsingsdoom": {
       "name": "Van Helsing's Doom",
@@ -2125,7 +2125,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/450f0d0725215668423ad07010f1c7ccb34be6d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.3"
+      "percent": "0.2"
     },
     "A_OutbreakLegend": {
       "name": "Outbreak Legend",
@@ -2143,7 +2143,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/b29fd5719e5f2f2d5a8d4ba01d717f6fbff37077.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.7"
     },
     "A_XenolithAI": {
       "name": "Hello, World!",
@@ -2170,7 +2170,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/246620/23cc5f03285d9d58518cadf3a848d3552fbe11ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.0"
     },
     "A_therecanbeonlyone": {
       "name": "There Can Be Only One",

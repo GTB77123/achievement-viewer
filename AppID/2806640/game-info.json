@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/0dda1615a67b2abd9e04c3009b66a481e6f63cb3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "AGoodListener": {
       "name": "A Good Listener",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/ede78b6b9b7269852f1760b0b92863f0cc2afbdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "BreakDownBarriers": {
       "name": "Break Down Barriers",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/88dd17bcdf0c7fc7ff032b70423150a9bc4f342a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "35.8"
     },
     "DealWithTheDeceiver": {
       "name": "Deal With The Deceiver",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/f91da249bf1bc6812e301f1bf11b971ded9dfec8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.0"
     },
     "EternalLife": {
       "name": "Eternal Life",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/0a302a87d7ab5f23137a12ccf7b406508e4f4db3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "LandOfDeath": {
       "name": "The Land of Death",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/284cfe9aa87f8e3264c8f999f8724d7b76499961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.4"
     },
     "LeaveYourMark": {
       "name": "Leave Your Mark",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/1f4a5e43b4937bb08d8a2efea70c2fc33010814b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "LogicCheckSuccess": {
       "name": "Logic check... OK",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/4929b43ddadb717959b8f4ff76b8dfc5b7743f05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.3"
+      "percent": "11.2"
     },
     "MakeConnections": {
       "name": "Make Connections",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/7f29c97ed1486e4b5fd2ea50708e3213c345388f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.4"
     },
     "QRReader": {
       "name": "QR Reader",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/664ae1930df251d9b690fe58ad32cbb8ce33ee2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "SacredGrounds": {
       "name": "Sacred Grounds",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/9d48443c9fd5ab946050c4203bd4abb6fd062a06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "Transgression": {
       "name": "Transgression",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/ac14b5bbc2f340ffc80832d5ed4132ae9005410e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "Uplifted": {
       "name": "Uplifted",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/eb1dcf68a1035d0c71187c398441bf0ed802d2c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     }
   },
   "platform": null,

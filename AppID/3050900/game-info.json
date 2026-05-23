@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "ACH_CLEAR_CHAPTER_2": {
       "name": "Romeo is an Unstrung Man",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_CLEAR_CHAPTER_4": {
       "name": "Romeo is a Blasphemous man",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "ACH_CLEAR_CHAPTER_5_1": {
       "name": "Romeo is a Gullible Man",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "ACH_TALKING": {
       "name": "Romeo is a Friendly Man",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.7"
+      "percent": "77.8"
     },
     "ACH_ACCESS_ATV": {
       "name": "Romeo is a Man of Television",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.4"
     },
     "ACH_SUPER_WEAPON": {
       "name": "Romeo is a Loyal Man",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.7"
     },
     "ACH_PLACEBO": {
       "name": "Romeo is a Well-Read Man",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3050900/83a87649cd752e94adf8f955e1211cee76366fdc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     }
   },
   "platform": null,

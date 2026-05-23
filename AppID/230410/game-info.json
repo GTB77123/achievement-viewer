@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/a49e7a13cf9c8191888be4cf8cfbeacfaba82a45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "ACHIEVEMENT_27": {
       "name": "Dagger Mastery III",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/2b753d49f81929ee3480bb47302275d0de66668a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "ACHIEVEMENT_45": {
       "name": "Heavy Weapon Proficiency III",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5a5b2e9a1a5d3c0f83a0300c09c67cd7c8632624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "24.8"
     },
     "ACHIEVEMENT_48": {
       "name": "Building a Stable",
@@ -640,7 +640,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/b6a0795d6001dbf021653273b9fbe4a3880a669e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "ACHIEVEMENT_72": {
       "name": "Hunter",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/62d5636903e86b92b61cef04f07a8d56d3f51374.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "ACHIEVEMENT_74": {
       "name": "Gold Hunter",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e866b278f702c2d14a443fed0e49cec14d44f6a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.1"
+      "percent": "55.0"
     },
     "ACHIEVEMENT_131": {
       "name": "No Longer a Rookie",

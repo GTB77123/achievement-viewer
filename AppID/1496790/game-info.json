@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/49411a8f4352e68999ea790123cd0a66b54ddcf8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "CLAYFACE_1": {
       "name": "Something in the Clay",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/f4b2622adbc355669d6291a52f30ba21a81554d1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "SECRET_CACHE": {
       "name": "Gotham City Confidential",

@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/f9b2ac34c81b7efc7478830c00dad304337be74c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.0"
     },
     "MYSTERY_02": {
       "name": "Whispered Words",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/f2e7d9e456ccc4d53ac7b8804875cdda7abcb0b8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "FREEZE_1_5": {
       "name": "Quartzer Life Crisis",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/a39b8faaa4254b90cde1ba8e45898a538ae8b68c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "ALL_VILLAIN": {
       "name": "End of an Era",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/9bf4383ff974ef63afccc419ad08f738b47185be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "AC1_HA_DEFEAT_VARIANTS": {
       "name": "Renewable Enemy Source",

@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "ACHIEVEMENT_10": {
       "name": "Ruler of Heaven and Earth",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.8"
     },
     "ACHIEVEMENT_37": {
       "name": "+100,000,000！",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.5"
+      "percent": "82.6"
     },
     "ACHIEVEMENT_38": {
       "name": "Linker of Hearts",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.0"
+      "percent": "83.1"
     },
     "ACHIEVEMENT_39": {
       "name": "Lucky Fighter",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1881420/2b18a2bc6705a8357d7714fc062f3dcf53c7c653.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     }
   },
   "platform": null,

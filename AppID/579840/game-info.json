@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/8ef5d4a246dac02a4673b681a34b7c378f519808.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "02_cave_secret": {
       "name": "Just in case",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/2d3fba05d6d0df35430af201ce7cfb8a90ff9924.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "03_cave_secret": {
       "name": "Feline can fly!",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/579840/706402d2254b367d29c0d1911dbcd1b5391bc574.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "09_cave_secret": {
       "name": "Well hidden secret",

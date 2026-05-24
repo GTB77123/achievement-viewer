@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/fe9945f96d8a227cf1a5c2352b4c640e016384b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.2"
+      "percent": "3.3"
     },
     "AchCompTracks100": {
       "name": "Track Master!",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/da1c58e504512bf7d8372eb47c3082dcaa93d25d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "AchShadow2": {
       "name": "Shadow Ops 5",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/f064bcd190a84b7bdb1d7abd3b2b7c40a43b9d83.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "AchShip3": {
       "name": "Show Me The Money",
@@ -604,7 +604,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/df4ec0a0f0b5d1550d01b6b5893e12180e27ee52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "AchShipTracks7": {
       "name": "Conflict",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/9723bf210d8c4aaa25bb7b8819ffb49e3e632b3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "AchArmoury_UnlockAll": {
       "name": "Arms Race",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/c3a3e1c751c86b0c3ec98eb4486e1acb39a49b75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "AchArmoury_CleanSweepKills": {
       "name": "Burning Sweep",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.6"
+      "percent": "0.7"
     },
     "AchSkills_AllPickups": {
       "name": "Nom nom nom",

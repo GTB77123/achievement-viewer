@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "1405001": {
       "name": "Jinming Pool Secrets",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "1401015": {
       "name": "Savior of Kaifeng",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/251bcce831f7904f55ae0bb28eb5576a184c4f00.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "1403003": {
       "name": "Every Inch Covered - Kaifeng",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "1402003": {
       "name": "Peak of All Arts",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/081867f59f5a5d9df96f15027415401b14ed4fea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.8"
+      "percent": "14.7"
     },
     "1404001": {
       "name": "Feline Riddler - Kaifeng",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.8"
+      "percent": "42.7"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/0f6fa883a4acd1034e31a561549396b743894ea4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "1504001": {
       "name": "Hexi: Paws on Point",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "1501032": {
       "name": "Hexi: Full Moon Rising",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.8"
+      "percent": "0.9"
     },
     "1501031": {
       "name": "Reflections of Obsession",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.7"
+      "percent": "0.8"
     },
     "9999001": {
       "name": "The Unspeakable Victory",
@@ -407,6 +407,60 @@
       "hidden": true,
       "group": "Base Game",
       "percent": "0.1"
+    },
+    "1401079": {
+      "name": "All Hail Me",
+      "description": "Your martial prowess is the stuff of legend. Someone fetch the imperial robes. They were made for you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/5c99ebdc8768886c43f1df7c0a618bb69c1c7bdc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/15e3f334c90e5028315b2e6f0cbc6a222241b77e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1402012": {
+      "name": "The Grand Tour",
+      "description": "If the Emperor can wander these halls, so can you. Every last room of them.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1404145": {
+      "name": "Strength of Character",
+      "description": "Anyone can win by force, but true loyalty can't be beaten into someone. Earn it.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/88aa609768306702f2b1102c35b2d0a4e318d285.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/f0559c9a2d158d6b8a7856e6e4fb19b5e507b4f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1002134": {
+      "name": "We're Cool Now",
+      "description": "Cross blades with the Black-Clad Thief under the moonlight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/85838fc5ba7f9fefe196ecc3e9e5a59f7ec79fae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/bc50c6da8106858422bc127ed914c2e1b5f5305c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "1404142": {
+      "name": "The Real Treasure",
+      "description": "The palace holds more than silver and gold. Some things money simply can't buy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.0"
+    },
+    "801020": {
+      "name": "King for a Day",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/62bed9a6f1e816506f625481206d6ded119938cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3564740/3c6ae34c2a4cfe594da1ae183f255e93260d2766.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.0"
     }
   },
   "platform": null,

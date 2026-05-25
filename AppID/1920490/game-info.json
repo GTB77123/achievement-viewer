@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ddb1a7f2e32d705c89bf4a5fe44d27636a2a8d89.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/8a1286b649f88c5261fd188966d82a158ac363f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "NEW_ACHIEVEMENT_1_22": {
       "name": "Elemental Maelstrom",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/59aa8324d0b42f8cbfc5c60a38d482de70cf690b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": " Mad Scientist",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/278b20ae911f9bc207bec1b8a1f83b93fa1628c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.1"
+      "percent": "23.2"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Welcome to Halcyon!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Paradise Found",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/0fc0ad05ef4189451a605ac80c22b2d59ddfad4f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "NEW_ACHIEVEMENT_2_4": {
       "name": "Lost and Found",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "The Audience Gasps",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/11982e012a22aeb80a6ae5546f71e17ff7cc52a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "NEW_ACHIEVEMENT_2_17": {
       "name": "Greenlight Protocol",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/d9550cc1bfef30e456acdd96e9c1af94f43131d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "NEW_ACHIEVEMENT_2_20": {
       "name": "Synthesize This",
@@ -550,7 +550,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/72ab42d458af3ab849a13a8a10f3008fb106825b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "16.1"
     },
     "NEW_ACHIEVEMENT_2_29": {
       "name": "The Mystery's Afoot",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1920490/4c98840f5efa41651194a5bc9e14d842588e2365.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "NEW_ACHIEVEMENT_3_0": {
       "name": "Alive And Kicking (And Shooting Too!)",

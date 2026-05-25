@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205100/c1983f4b7daba9fba143baa225d48e66e24dc259.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "ACHIEVEMENT_42": {
       "name": "Lights Out",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/205100/e3c1633e66346a1fa42ed543cb7240e0d1dd6db2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "ACHIEVEMENT_49": {
       "name": "Big Boy",

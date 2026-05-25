@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5223377856b0dd13cbba899f6f842fc274b42008.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "ACHIEVEMENT_3": {
       "name": "Blade Mastery I",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/5d238e6b2fac1fb8dd23ac20ff9420f757e14855.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "ACHIEVEMENT_47": {
       "name": "A Watchful Eye",
@@ -1234,7 +1234,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/78f9131b7995d4846f54c5ecf9a1575e5d6c4272.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "19.0"
     },
     "ACHIEVEMENT_138": {
       "name": "Hats off to you!",
@@ -1567,7 +1567,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/e1fdded226085cacc34d0736c09276cd6068b24f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACHIEVEMENT_176": {
       "name": "The Sacrifice",
@@ -1711,7 +1711,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/230410/3e2561d857ad8361995a6d235b6650dba214291c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.8"
     },
     "ACHIEVEMENT_192": {
       "name": "Some Assembly Required",

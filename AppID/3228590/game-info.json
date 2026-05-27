@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/88bfcce5e5d1ea69345d013c71fb6d49fdadb494.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.6"
+      "percent": "98.7"
     },
     "ACH_KillAndroids500": {
       "name": "Terminate This",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a0cb3a7e422195d502c541b600ebf8d913b50862.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.5"
+      "percent": "95.6"
     },
     "ACH_KillAndroidsWithBarrel100": {
       "name": "Barrel of Laughs",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/37f4bbf6fe131f2585f3e6868419d8d949727fe6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.1"
+      "percent": "95.2"
     },
     "ACH_Die10": {
       "name": "I live... I die. I live... I die. I live... I die.",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.5"
+      "percent": "85.6"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ACH_CompleteStory2": {
       "name": "Stay Frosty",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2aea7e9c7ad6961429eb98587ff6de4c52a49c61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.8"
+      "percent": "94.9"
     },
     "ACH_TechUpgrades1": {
       "name": "Gaining Power",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "ACH_Sanctify2": {
       "name": "Devout Weaponsmith",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",

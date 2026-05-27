@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a1782d4975cb6bdba69759a3a13d81d96be6de05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "58.9"
     },
     "ACH_CAT_PET": {
       "name": "Pet the Cait",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/25f0c45d28b26ff2a70563205747a9a40f72bac1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_DROPBATTERY": {
       "name": "Bye bye, Battery!",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/8957b05931f44d85f924c621ea5df826d14dd98a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.9"
+      "percent": "71.8"
     },
     "ACH_DROPDUSTIN": {
       "name": "Dustin? More like Dust-off!",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/af3004df63077daa71ea553a0376c56ee6577ccb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.9"
     },
     "ACH_PROG_HUB5_ARRIVE": {
       "name": "End of the line",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/53dc4c087ff64ce56dc6eecf488b578a7ae1b50b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "51.8"
     },
     "ACH_REWIND_LONG": {
       "name": "Time traveller",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/4103a33c0db8776553edcf703664cc281ea0a495.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "ACH_RIDEBALLOON": {
       "name": "Hitching a ride",

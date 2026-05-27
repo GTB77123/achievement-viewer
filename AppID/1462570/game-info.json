@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/d7cf127b40b4fc76e8fdf71540daf14415019524.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.3"
     },
     "Achievement_GOSCC_23": {
       "name": "You're a Dice Wielder, Even",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/5f23e855428159c44ed5510ba09990bfba105f90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "Achievement_GOSCC_27": {
       "name": "One Way Ticket To Sixtopia",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/8ee3fc32d84489b6c1f73a3dfc65e4402747c787.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "Achievement_GOSCC_28": {
       "name": "A Dicey Situation",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1462570/dd5b5481fa5e51ff7417edc0dc8c020417eb6336.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "Achievement_GOSCC_38": {
       "name": "Bridger",

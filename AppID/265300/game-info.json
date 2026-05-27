@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/e02018cd758075e1ccc53593f0235d2dd7b8735d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "ID_ACHIEV_11": {
       "name": "Only after Disaster",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/984ac4e2636550aeff1fbde1dd29b9e722c18597.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "ID_ACHIEV_12": {
       "name": "Not a question of can or can't",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/92adf7c6194a9540e947faf0ed845460005a5d26.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "ID_ACHIEV_29": {
       "name": "Bookworm",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/a6cbf10f6430e8cbaac71b453fcfbb19b92915b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "ID_ACHIEV_35": {
       "name": "This! Is! Keystone!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/318035ae9428335aead9d0fc4231f5bbdc6aff42.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "ID_ACHIEV_37": {
       "name": "The real Lords starts here",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/265300/8cf521054beec89394946585b3b8728cea53c1d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "ID_ACHIEV_40": {
       "name": "I feel lucky",

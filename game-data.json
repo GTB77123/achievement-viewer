@@ -1,5 +1,5 @@
 {
-  "last_updated": 1779858341,
+  "last_updated": 1779943975,
   "total_games": 121,
   "games": [
     {
@@ -4067,7 +4067,7 @@
       "info": {
         "appid": "359550",
         "name": "Tom Clancy's Rainbow Six Siege",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ac4f6daf0d8afee2754e9964077a9a7d5bdb8ab8/header_alt_assets_22.jpg?t=1779209046",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ac4f6daf0d8afee2754e9964077a9a7d5bdb8ab8/header_alt_assets_22.jpg?t=1779889357",
         "achievements": {
           "RB6X_Ach_1": {
             "name": "Back in the Day ATK",
@@ -15012,7 +15012,7 @@
       "info": {
         "appid": "3564740",
         "name": "Where Winds Meet",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1779850108",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/96d68ee3de63a48f12276ab5e3d5c721c6dc2581/header_alt_assets_5.jpg?t=1779872892",
         "achievements": {
           "all_achievement": {
             "name": "The Hero is the Voice of the World",
@@ -23847,7 +23847,7 @@
       "info": {
         "appid": "2592160",
         "name": "Dispatch",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg?t=1778265076",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592160/header.jpg?t=1779899220",
         "achievements": {
           "ACH_MENTOR_FAIL": {
             "name": "\"Didn’t see that coming?\"",
@@ -23874,7 +23874,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/ce7a6bede41fc40d455bfef3db76c02e119f3193.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.9"
+            "percent": "63.0"
           },
           "ACH_MERCY": {
             "name": "\"I can confirm he’s a bad ass.\"",
@@ -23991,7 +23991,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/23a8aa335fae036f4f2b7daf7ea2f157ae3c5c18.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "3.1"
           },
           "ACH_SYNERGY": {
             "name": "Work Spouse",
@@ -24009,7 +24009,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ea79dd3a54de09a7f6058bb22e0ff8e45f19509.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.5"
+            "percent": "49.6"
           },
           "ACH_TRAIN": {
             "name": "Power Trip",
@@ -24072,7 +24072,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "84.4"
+            "percent": "84.5"
           },
           "ACH_SCEN_SUCCESS": {
             "name": "Fool's Luck",
@@ -24126,7 +24126,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2592160/3ee87e808f9d756fa6329af8a61dda6a53f91538.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "50.8"
+            "percent": "50.9"
           },
           "ACH_HACK_SLOW": {
             "name": "Time's Running Out",
@@ -65814,7 +65814,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/44a9e19248d43300515c3575f0c5bd0a9813ee97.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.2"
+            "percent": "39.3"
           },
           "BG3_Quest44": {
             "name": "Punch Drunk",
@@ -65823,7 +65823,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/72d53386ef52ab6412d935ec89de7c1565474924.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.9"
+            "percent": "3.0"
           },
           "BG3_Quest45": {
             "name": "Fetch Quest",
@@ -65841,7 +65841,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/b1dd3bd0aefbcab6e7c7de016bbed582ca6ec91f.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "44.9"
+            "percent": "45.0"
           },
           "BG3_Quest47": {
             "name": "The Lich-Queen's Wrath",
@@ -65886,7 +65886,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/44deee9d0a5a22a45be261cff52fa97b140d33c9.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.4"
+            "percent": "24.5"
           },
           "BG3_Quest52": {
             "name": "Embrace Your Urge",
@@ -69319,7 +69319,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1238020/061f8111f35e8a1bb91585f8d349471364138851.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.3"
+            "percent": "29.4"
           },
           "Achievement_GOSCC_111": {
             "name": "Arbiter",
@@ -70996,7 +70996,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.9"
+            "percent": "26.0"
           },
           "NEGLECT": {
             "name": "Neglect",
@@ -71131,7 +71131,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.3"
+            "percent": "20.4"
           },
           "ENDING_A": {
             "name": "The Hollow Knight",
@@ -71194,7 +71194,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.9"
+            "percent": "19.0"
           },
           "SPEED_COMPLETION": {
             "name": "Speed Completion",
@@ -86854,7 +86854,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2622380/ee2794355abd2d378f0a2acc16f0aebf7bf9dc7a.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "64.3"
+            "percent": "64.2"
           },
           "ACH10": {
             "name": "Augur",
@@ -89010,7 +89010,7 @@
       "info": {
         "appid": "1903340",
         "name": "Clair Obscur: Expedition 33",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1779899309",
         "achievements": {
           "LUMIERE": {
             "name": "Lumière",
@@ -89154,7 +89154,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.5"
+            "percent": "39.6"
           },
           "ESQUIE_UPGRADES": {
             "name": "Plane, Train, and Submarine",
@@ -89235,7 +89235,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "25.6"
+            "percent": "25.7"
           },
           "SPRONG": {
             "name": "Sprong",
@@ -89271,7 +89271,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.0"
+            "percent": "29.1"
           },
           "MAELLE_RELATIONSHIP": {
             "name": "Maelle",
@@ -89289,7 +89289,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.4"
+            "percent": "31.5"
           },
           "ESQUIE_RELATIONSHIP": {
             "name": "Esquie",
@@ -89388,7 +89388,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.2"
+            "percent": "35.3"
           },
           "VERSO_PERFECTION": {
             "name": "Perfection",
@@ -89406,7 +89406,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.2"
+            "percent": "28.3"
           },
           "PETANK_ALPHA": {
             "name": "Carreau Parfait",
@@ -89442,7 +89442,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.4"
+            "percent": "28.5"
           },
           "ALL_SONGS": {
             "name": "Connoisseur",

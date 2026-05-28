@@ -1,7 +1,7 @@
 {
   "appid": "1903340",
   "name": "Clair Obscur: Expedition 33",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1779899309",
   "achievements": {
     "LUMIERE": {
       "name": "Lumière",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "ESQUIE_UPGRADES": {
       "name": "Plane, Train, and Submarine",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "SPRONG": {
       "name": "Sprong",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "MAELLE_RELATIONSHIP": {
       "name": "Maelle",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "ESQUIE_RELATIONSHIP": {
       "name": "Esquie",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "VERSO_PERFECTION": {
       "name": "Perfection",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/0e9ceff4d0e2377a2ec3a950ba408752ccc768be.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "PETANK_ALPHA": {
       "name": "Carreau Parfait",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ALL_SONGS": {
       "name": "Connoisseur",

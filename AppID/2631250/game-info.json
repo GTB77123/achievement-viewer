@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/62af462c77cd8295298c8164489667c387cee244.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "33.3"
     },
     "ACH_02": {
       "name": "Last Echoes of Love",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/d44777c8c3aaf8d361deaeee0b034d00b3aadfff.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "ACH_05": {
       "name": "Crucifix of Blood",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/6d5885147cedfd26a7d2a978cdfd143ec6443b4c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.3"
     },
     "ACH_09": {
       "name": "Timeline Collapse",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/8a249337904b013c0876ab9057dcedcf308a491b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ACH_10": {
       "name": "Timeline Convergence",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/80fd80faa694a476eed9963fcd872221ac4b6601.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "ACH_38": {
       "name": "Force Majeure",

@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/25f0c45d28b26ff2a70563205747a9a40f72bac1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACH_DROPBATTERY": {
       "name": "Bye bye, Battery!",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1382070/a5aff2e0b2c638d969eff5847594e176f7724103.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ACH_PROG_HUB1POSTCRASH": {
       "name": "Welcome Back!",

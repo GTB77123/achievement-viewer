@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/877955c30c2b0693f00525fb8bb0db47abc6652d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "CrumbleSpiderKids": {
       "name": "Scared to Dust",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/bab00ff9314a2cf5f3692fbfe1cbaf04e1fb01d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.3"
     },
     "FailToSave": {
       "name": "Survival Instinct",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/55538c426a7f0799c0c9acc23de91a376a1baa35.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "3.8"
     },
     "DestructionDerby": {
       "name": "Destruction Derby",
@@ -281,6 +281,86 @@
       "hidden": true,
       "group": "Base Game",
       "percent": "9.9"
+    },
+    "DLC1Completed": {
+      "name": "Complete",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1MercyKill": {
+      "name": "Mercy",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1TakePicture": {
+      "name": "Take",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1Fire": {
+      "name": "Fire",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1CraterView": {
+      "name": "View",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1AllPosters": {
+      "name": "All",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1Shame": {
+      "name": "Shame",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1Suitcases": {
+      "name": "Suit",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1Shadows": {
+      "name": "Shadows",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
+    },
+    "DLC1PetrifiedKids": {
+      "name": "Pet",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2129530/cd1c72d6cc414d6fef359ffc93037ac8a8e1c625.jpg",
+      "hidden": true,
+      "group": "Base Game"
     }
   },
   "platform": null,

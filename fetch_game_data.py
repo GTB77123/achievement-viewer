@@ -175,7 +175,7 @@ TOP_OWNER_IDS = load_top_owner_ids()
 
 
 def get_changed_appids():
-        found_ids = ["3357650"]
+        found_ids = ["2185060"]
         print(f"Detected changes in AppIDs: {', '.join(sorted(found_ids))}")
         return found_ids
 

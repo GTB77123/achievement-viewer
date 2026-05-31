@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/e22c3fdba5e1399e4a2f1c4dc8175c41247abe14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "SOLO_ACHIEVEMENT_1_7": {
       "name": "Almighty Shaman",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/41cdbb8e4c98bb43d78dda3f6a98dcb1d9b520a6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "SOLO_ACHIEVEMENT_1_8": {
       "name": "Baran's Wyvern",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/8fdb2ddabeeb8787c32e48e7c5ea7d4a48264571.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.5"
     },
     "SOLO_ACHIEVEMENT_1_11": {
       "name": "A New Technique",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/15c24728d08d46e2fdba8e26b7620c80c95e4b4a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.2"
     },
     "SOLO_ACHIEVEMENT_1_43": {
       "name": "Perfect Coordination",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2373990/96e819127ed87b92000e20dbd10e0eecad6349de.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "SOLO_ACHIEVEMENT_1_51": {
       "name": "So Nimble!",

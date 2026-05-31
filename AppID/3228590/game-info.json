@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4531ef4d420d82a667ef996ac04826c85dd9d595.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "ACH_KillAndroids1": {
       "name": "What Are These?",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a0cb3a7e422195d502c541b600ebf8d913b50862.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.5"
+      "percent": "95.6"
     },
     "ACH_KillAndroidsWithBarrel100": {
       "name": "Barrel of Laughs",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/880f7e513595bc286439617845b0f317a48bb7c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.6"
+      "percent": "85.5"
     },
     "ACH_CompleteSpecialty": {
       "name": "Special Ops",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/41594221eb3cb858cb1ff6aa85b325cbf6be6da4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ACH_CompleteStory2": {
       "name": "Stay Frosty",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "ACH_CompleteMission_Nightmare": {
       "name": "Bad Dreams",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a2f900c3cdc09bc9ab113caa39fd7f11e84b0189.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.2"
     },
     "ACH_ReadDataLog1": {
       "name": "Looky Here",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/288e88664306c87095c9ef3802e808b039d4058f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACH_CompleteMission_All_Nightmare": {
       "name": "I am the Nightmare",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "ACH_Sanctify1": {
       "name": "Gunpowder Piety",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/40879a04bd024a822aaa35355a54b4576f0c1fa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.7"
     },
     "ACH_Sanctify2": {
       "name": "Devout Weaponsmith",
@@ -514,7 +514,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/45209d083009cbefdc2e62f46e2633c781333600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "ACH_CompleteZone4": {
       "name": "Asteroid Explorer",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/433ecf14ac6baa4c3adf98df2af7f4462df7ae28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     }
   },
   "platform": null,

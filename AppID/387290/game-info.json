@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/6dc6c92be86489f9e1229bbb32e20429bcbe465a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "collectBranchOneSkills": {
       "name": "Soul Master",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/387290/e7a0e3453a3276e311a07ff820a85f1b2b6e0d84.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "doubleJumpConsecutively": {
       "name": "Airborne",

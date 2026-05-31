@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/4469bb7ed2ae808fe975596218c496ea31dc7f54.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "AndSoItBegins": {
       "name": "And So It Begins",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/5642baf3384a4b8df90cc5860af765c05ddd060e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.7"
     },
     "Ascension": {
       "name": "Ascension",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/1d8b2bcc4dc1d8f1a76cb4597f3546a7716abf2c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.0"
+      "percent": "17.1"
     },
     "BlessedMessenger": {
       "name": "Blessed Messenger",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/ede78b6b9b7269852f1760b0b92863f0cc2afbdc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "BreakDownBarriers": {
       "name": "Break Down Barriers",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/88dd17bcdf0c7fc7ff032b70423150a9bc4f342a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "DealWithTheDeceiver": {
       "name": "Deal With The Deceiver",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/be0d79501d6a41a513865bb5ff8636ff9d0b5d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "First": {
       "name": "First!",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/83df07576040fcbc92a07f3a1c14430f2916e853.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "Fishmaster": {
       "name": "Fishmaster",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/a2942efc4f3c87d11723361a89b12ee7835436b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "FreeAdmin": {
       "name": "Free Admin",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/341378f33101b1bdbd122707385cb02efba844b0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "FreeWill": {
       "name": "Free Will",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/de37416b9eaf50fe4c287b30c1c5db39e1e122a2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "GameTheory": {
       "name": "Game Theory",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/1837d0b16347eac65925922d45248a39c693b22e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "HallsOfHisTemple": {
       "name": "Halls of His Temple",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/14ed56b99ea33df9198c5bc582f6e10858f9de3e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.0"
+      "percent": "81.1"
     },
     "HappyAccidents": {
       "name": "Happy Accidents",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/d86055e895ca429f808102b20fbfbe67474ead66.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "52.1"
     },
     "ILoveDemocracy": {
       "name": "I Love Democracy",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/f8beb10e6b3340828d094e7da1588ac82299c0ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "IntoTheUnknown": {
       "name": "Into The Unknown",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/fa2bbc244429a8a32076b4e28b6fb2802d177805.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "ItsWorking": {
       "name": "It's Working",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/56be1ea36b1db44b1ad5c9970b5dd879139c921a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.9"
     },
     "LandOfFaith": {
       "name": "The Land of Faith",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/284cfe9aa87f8e3264c8f999f8724d7b76499961.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.6"
     },
     "LeaveYourMark": {
       "name": "Leave Your Mark",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/a1e7243c34cb20a78ac9f9b14690fc5a6df70d77.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.5"
     },
     "OffTheRadar": {
       "name": "Off The Radar",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/c185f97448b38b51259a8b03041f6e1133a65ba9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "OnTheEdge": {
       "name": "On The Edge",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/2260238f6aeb061c54fee152ff932c312c8c13a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "OnTopOfThings": {
       "name": "On Top of Things",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/bb7c26cbd2de629f5f64bc714f33295c8fc6abd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "PressTheSerpent": {
       "name": "Press The Serpent",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/664ae1930df251d9b690fe58ad32cbb8ce33ee2b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "SacredGrounds": {
       "name": "Sacred Grounds",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/e04ba8edb2f177a9d34b6f98a793e8f6e34ff5c0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "SeeDouble": {
       "name": "See Double",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/35567bcc3ef4897b07e7d35710096b2e1393b909.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "55.1"
     },
     "SigilsAreNotEnough": {
       "name": "Sigils Are Not Enough",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/8640ab2d848770e764fac32823f28fbd06f6f47f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "SoFarSoGood": {
       "name": "So Far, So Good",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/7854d5aa3c58fc98c49bbd3ec5f4d34e779226dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "TheFirstMessenger": {
       "name": "The First Messenger",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/408ab70b5714ebbbf24021865b9e2ea00ad16c8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.1"
+      "percent": "11.2"
     },
     "ThriceHoly": {
       "name": "Thrice Holy",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/ac14b5bbc2f340ffc80832d5ed4132ae9005410e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "Uplifted": {
       "name": "Uplifted",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/fa39c76dd9d478d53cadb7be5ef04bdf854abdbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.3"
     },
     "WelcomeToGehenna": {
       "name": "Welcome to Gehenna",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2806640/eb1dcf68a1035d0c71187c398441bf0ed802d2c4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     }
   },
   "platform": null,

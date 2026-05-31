@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/d14831161b02285223fbaa0ea63bcc09ec0460ca.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.0"
     },
     "FREEZE_3": {
       "name": "Cooldown",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/2efebbd54ea447fd92c72fa71ee7535d3b665cb6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "CLAYFACE_2": {
       "name": "The Show Mud Go On",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1496790/7c656a681cda8976bfb67eb727bbb16113312ca9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.8"
+      "percent": "24.7"
     },
     "CHALLENGES_1": {
       "name": "Protector of Gotham",

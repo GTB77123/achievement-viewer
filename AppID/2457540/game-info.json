@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.7"
     },
     "ACHIEVEMENT_04": {
       "name": "Leaving of the Little Dragon",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACHIEVEMENT_05": {
       "name": "Return to the Origin",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "ACHIEVEMENT_08": {
       "name": "Dimensional Resistor",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.7"
     },
     "ACHIEVEMENT_11": {
       "name": "Rising Star",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ACHIEVEMENT_13": {
       "name": "Rookie",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACHIEVEMENT_14": {
       "name": "Deep Red Dragon Emperor",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.3"
     },
     "ACHIEVEMENT_15": {
       "name": "The Dark Lord of Chaos",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "31.1"
     },
     "ACHIEVEMENT_17": {
       "name": "The Ruler of Heaven and Earth",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACHIEVEMENT_19": {
       "name": "School Idol of the Blue Sky",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "ACHIEVEMENT_22": {
       "name": "The Veteran",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_25": {
       "name": "Card Decomposer",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.5"
+      "percent": "91.4"
     },
     "ACHIEVEMENT_26": {
       "name": "Card Alchemist",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "ACHIEVEMENT_33": {
       "name": "Persona Ride!",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "80.4"
+      "percent": "80.3"
     },
     "ACHIEVEMENT_39": {
       "name": "The Overwhelming Victor",

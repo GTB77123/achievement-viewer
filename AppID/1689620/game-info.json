@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/2f32e9ec9ccc4d691c522f96b59dc5876a062caf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "TROP007": {
       "name": "Unfinished July Rain",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/3ea2f12f2d280382119f83da706862a4cadce752.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "TROP008": {
       "name": "AND THE RAIN LEFT OFF",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/663dc1f74564acbebc7997f78655ccf2430b0eb1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.1"
     },
     "TROP010": {
       "name": "Leaving the Heart Behind",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/183a3c4272c4e2d3ea1c6697450dd3415cac326a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "TROP014": {
       "name": "Tail of the Dragon",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/65f63f45ec60f6e8431ba6788561a14633588023.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "TROP016": {
       "name": "Crazy Crack",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/64786fc46cb923e115d43be9121705e6ce35765e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.2"
     },
     "TROP018": {
       "name": "Soul Crystal Collector",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/f0a407c8a9b1681ca081f7ae215062c0527ee3d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.6"
+      "percent": "5.5"
     },
     "TROP019": {
       "name": "Soul Talisman Collector",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/dc15528a8fdc06572642b6b3992a9853ab3c612a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.8"
+      "percent": "32.7"
     },
     "TROP021": {
       "name": "Kikon Move",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/e55d09075b693956ccddbf713524cc36698a9940.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.1"
     },
     "TROP023": {
       "name": "Self-Polishing",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/45ebad9dba70b81dae93e2f95871b8c3e3725e06.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "TROP024": {
       "name": "Spirit Talisman Power",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/dbd17f7da738e2bfbda74c1853b69f59e40ce591.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.0"
     },
     "TROP026": {
       "name": "Bargains",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1689620/25b4a8c31f13b5c73000663d7010f0ec3fda1466.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     }
   },
   "platform": null,

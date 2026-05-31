@@ -1,0 +1,234 @@
+{
+  "Artefact_X": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Buzzin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Complete_Skeleton": {
+    "earned": true,
+    "earned_time": 1780159074
+  },
+  "County_Fame": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 7,
+    "progress": 0
+  },
+  "Crafty": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 20,
+    "progress": 0
+  },
+  "Crew_Reunited": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_FinalDragon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_FirstDragon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_NiceDice": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Animals_Favourite_Carer_Count": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Animals_Offspring_Count": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Five_Act_Arctic": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "DLC2_Five_Act_Wildlife": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "DLC2_POI_Biodiversity_Level_Count": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 0
+  },
+  "DLC2_Wildlife_Exhibit_Variety": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "DLC3_FeelingEmotional": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Five_Act_Art": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "DLC3_Frame_It": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Model_Employee": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "DLC3_Quantity_Over_Quality": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Discover_Pristine_Exhibit": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Enlightened": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 30,
+    "progress": 0
+  },
+  "First_Museum_Act": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Fish_Breeder": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 0
+  },
+  "Five_Act_City": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Five_Act_Coastal": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Five_Act_Desert": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Five_Act_Lodge": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Five_Act_Treetops": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 5,
+    "progress": 0
+  },
+  "Gifted": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Gold_Popup": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Guest_Eaten": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Max_Science": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Max_Training": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Multiple_Theme_Museum": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Museum_Level": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "N_POIs_Unlocked": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 25,
+    "progress": 0
+  },
+  "Name_Fish": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "On_Tour": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Out_Patient": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Perked_Up": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Prehistory_Mystery": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Red_Handed": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Robo_Staff": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Sandbox_Museum": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Sell_Out": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10000,
+    "progress": 0
+  },
+  "Staff_MIA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Stickerbook_Shiny": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 100,
+    "progress": 0
+  },
+  "Thaw_and_Order": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

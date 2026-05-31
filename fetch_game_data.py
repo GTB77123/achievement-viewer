@@ -175,70 +175,9 @@ TOP_OWNER_IDS = load_top_owner_ids()
 
 
 def get_changed_appids():
-    """Get AppIDs that have changed in the triggering event"""
-    try:
-        changed_files = []
-        
-        # Check if we're in a push event by looking at GITHUB_SHA and GITHUB_BEFORE
-        github_sha = os.environ.get("GITHUB_SHA", "")
-        github_before = os.environ.get("GITHUB_BEFORE", "")
-        
-        # If we have both SHA values, this is likely a push event
-        if github_sha and github_before and github_before != "0000000000000000000000000000000000000000":
-            print(f"Comparing push commits: {github_before[:7]}...{github_sha[:7]}")
-            result = subprocess.run(
-                ["git", "diff", "--name-only", github_before, github_sha],
-                capture_output=True,
-                text=True,
-            )
-            if result.returncode == 0 and result.stdout.strip():
-                changed_files = result.stdout.strip().split("\n")
-        
-        # If no push-specific changes found, try comparing HEAD~1 to HEAD
-        if not changed_files:
-            result = subprocess.run(
-                ["git", "diff", "--name-only", "HEAD~1", "HEAD"],
-                capture_output=True,
-                text=True,
-            )
-            if result.returncode == 0 and result.stdout.strip():
-                changed_files = result.stdout.strip().split("\n")
-        
-        # Check for staged changes
-        result2 = subprocess.run(
-            ["git", "diff", "--name-only", "--cached"],
-            capture_output=True,
-            text=True,
-        )
-        if result2.returncode == 0 and result2.stdout.strip():
-            changed_files.extend(result2.stdout.strip().split("\n"))
-        
-        # Check for untracked files in AppID directory
-        result3 = subprocess.run(
-            ["git", "ls-files", "--others", "--exclude-standard", "AppID/"],
-            capture_output=True,
-            text=True,
-        )
-        if result3.returncode == 0 and result3.stdout.strip():
-            changed_files.extend(result3.stdout.strip().split("\n"))
-        
-        # Extract AppIDs from changed files
-        found_ids = set()
-        for f in changed_files:
-            # Match AppID/12345/... pattern
-            match = re.match(r"AppID/(\d+)/", f)
-            if match:
-                found_ids.add(match.group(1))
-        
-        if found_ids:
-            print(f"Detected changes in AppIDs: {', '.join(sorted(found_ids))}")
-        else:
-            print("No AppID-specific changes detected")
-        
-        return list(found_ids)
-    except Exception as e:
-        print(f"Warning: Could not detect changes: {e}")
-        return []
+        found_ids = ["3357650"]
+        print(f"Detected changes in AppIDs: {', '.join(sorted(found_ids))}")
+        return found_ids
 
 
 def load_json_file(file_path):

@@ -1,0 +1,1164 @@
+{
+  "last_updated": 1780297787,
+  "total_games": 2,
+  "games": [
+    {
+      "appid": "2185060",
+      "info": {
+        "appid": "2185060",
+        "name": "Two Point Museum",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/f518d1aa2754296e280ba3fe0d2bd4392fa6e3eb/header.jpg?t=1776953050",
+        "achievements": {
+          "Buzzin": {
+            "name": "Absolutely Buzzing",
+            "description": "Have a guest reach 2000 Buzz.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/72eb6d101ec115dde98fda07bf7c32cdf557dd91.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/cda13d9ff6c8a0b6d615d2bc63bbb7dc06031ca6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "39.5"
+          },
+          "DLC3_Five_Act_Art": {
+            "name": "Art Museum",
+            "description": "Complete chapter 5 of Undee Docks.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/7d6434f0b037754d11eaf084077a9d7df7e80ec3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/75e5e0754c60c1e3d2da4a3a246fa193dfc891d5.jpg",
+            "hidden": true,
+            "group": "Update 3",
+            "percent": "0.8"
+          },
+          "Sandbox_Museum": {
+            "name": "Built on Sand(box)",
+            "description": "Build a level 10 museum in Sandbox Mode.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/086ae96cfc10ba09268750353282d3dc60febb1b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/d52c0b231e58bea636070b9d97dfe396ec984d8c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.7"
+          },
+          "Robo_Staff": {
+            "name": "Byte at the Museum",
+            "description": "Employ 10 Robo staff (Janitors or Security Guards) in a single museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/3eadee48c71ae946f09c98f9b5fd808edb95fdd3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/1d8558eff184371f74dc863da6be1f16da9c12c5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.9"
+          },
+          "Stickerbook_Shiny": {
+            "name": "Comprehensive Curator",
+            "description": "Earn 100 shiny stickers in the Sticker Book.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/90a890e327aa1ee79b2fc6aead83cea785fad4b4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/8170ec85fdd043cf60234158a4028db0b9e53c5f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.0"
+          },
+          "Red_Handed": {
+            "name": "Directly to Jail",
+            "description": "Catch a thief who has stolen an exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/ff9bfab66910a71c1317ed09dd32932e14319475.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/302907d040cd900bf7ac7139e9b79bfaa65edf59.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "34.3"
+          },
+          "Multiple_Theme_Museum": {
+            "name": "Everything for Everyone",
+            "description": "Display an exhibit from 6 different themes in one museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/491573712b79fec25a96cabb79164c884251f09b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b6f54037685400e4fc80f1065c029e439197dba4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.0"
+          },
+          "Gold_Popup": {
+            "name": "Exhibition Expert",
+            "description": "Earn a gold trophy in an Exhibition Mode pop-up museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/045e8dcdf1d7e1e707b03fae0b675876463d397d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b8da9fc90e5c4d31e8f59e87282e719918ca6c07.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.7"
+          },
+          "Staff_MIA": {
+            "name": "Ex-plorer",
+            "description": "Lose a staff member on an expedition.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5414ff12b14b4bdb6b89c499ba8cd7a930e027b4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/f911a4ffe99b2bf2ff533888d911a812cd81e9df.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "50.8"
+          },
+          "Gifted": {
+            "name": "Fancily Dressed Five",
+            "description": "Have 5 visiting children wear onesies of 5 different themes at once.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/1fb5b4b320eee14274f1f0e34a111dceb6e3bff0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/67041311f0372a6f49808ab9ff80e8ad44e57145.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.4"
+          },
+          "DLC2_POI_Biodiversity_Level_Count": {
+            "name": "Farflung Fixer",
+            "description": "Have 15 Wildlife POIs at Biodiversity Level 3.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/57bb774b9d11b1e9924ddcd3d2a1f4e7e73dcc8d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b5100e18396b3a778ed46e73fe16429a702221f9.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "3.0"
+          },
+          "DLC2_Animals_Favourite_Carer_Count": {
+            "name": "Fauna's Favourite",
+            "description": "Have a member of staff be 5 different animal's favourite Expert.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/466854d6a22bf68b1d3e27487cd81413229d367b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/29ccd4413061c43dd202754f0adcf33d67424ddb.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "10.4"
+          },
+          "Fish_Breeder": {
+            "name": "Fishes (Plural)",
+            "description": "Have 10 fish born at the museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/e6b14121b05b7169d07a9ce35883e9123745c799.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/f92491d57447b640b6326fc7ec1ac299e3543b22.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.8"
+          },
+          "DLC3_Frame_It": {
+            "name": "Frame It 'Til You Make It",
+            "description": "Display a pristine piece of original Art.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/521ef329d3c5aa49961cff996ff93058631714f5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/be53a10d2d8b2c2f5527c353d53c362cd88242d2.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "2.4"
+          },
+          "Max_Science": {
+            "name": "Fully Customised Contraption",
+            "description": "Have a level 3 (III) Custom Contraption, Science exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/48b301410d2cbc18d055717c1774f302ca4395b8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/82747b96e804dae458f561df9b569c6b16f07ef1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.7"
+          },
+          "DLC3_FeelingEmotional": {
+            "name": "Glass Case of Emotion",
+            "description": "Employ an Art Expert with an understanding of all 7 Emotions.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/f6a85f3a257c85846fcf30d04854904bddcd6ac2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/8b36f1daae7b185ec200f2a323180fdb4834b312.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "0.3"
+          },
+          "Out_Patient": {
+            "name": "Healing Holiday",
+            "description": "Cure an Illness or Injury by sending staff on an expedition to Remedial Springs.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/d629046f81aa8ba8c029212560c4dda4c9082464.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/4986a751c940a6ed849635a3eed3cc9fb920b5e6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "49.1"
+          },
+          "County_Fame": {
+            "name": "High-Class Curator",
+            "description": "Reach Curator Class level 7.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/c62c00f53e1f3135ddb4622d27c078cf724b5718.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/34243dc5bef974a4b2f77798e26eff0671540378.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.7"
+          },
+          "Crafty": {
+            "name": "Made Them Yourself",
+            "description": "Complete 20 Workshop projects.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/0ea295ebc72597bc9cdb1c02c2293decc44861cc.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/ebf59fbe5e9102a2a875d8f0675dcde236ec7bb7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "39.0"
+          },
+          "N_POIs_Unlocked": {
+            "name": "Map Reader",
+            "description": "Unlock 25 expedition points of interest (POIs).",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/7264d09ff940cd596dee3891bdd27938ec09d612.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/fef6def577cb1fc3de339ab9c0974e415dc59122.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "42.0"
+          },
+          "Five_Act_Coastal": {
+            "name": "Marine Life Museum",
+            "description": "Complete chapter 5 of Passwater Cove museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/2584a348a05819dd73d4e0b41579840a61ab8253.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/7ae6c68fcbf09aeddcc78963a8ad8867785c67f8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.5"
+          },
+          "Museum_Level": {
+            "name": "Mega Museum",
+            "description": "Have a level 50 museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/8115091ca5ddd81c254e08aff467c281cdfb8642.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/4ccdb01477f8853abe3091f569a8fee048e0315a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.0"
+          },
+          "Discover_Pristine_Exhibit": {
+            "name": "Mint Condition",
+            "description": "Discover a Pristine quality exhibit on an expedition.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/17230bde248bf157b7e198153dcadc7f618a2e84.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/4ae2e70cd0cc159e84ae6cee70bc9361e4f9ed13.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "55.2"
+          },
+          "DLC3_Model_Employee": {
+            "name": "Model Employee",
+            "description": "Have a single Assistant pose for 5 portraits and/or statues.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/57e2d0452bd57e3a5c5b31967f1e26355980cd33.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/da2277ac3d600cfe73b1217c7d5c6b6dfd0a90d4.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "1.5"
+          },
+          "DLC2_Wildlife_Exhibit_Variety": {
+            "name": "Monster Menagerie",
+            "description": "Display 30 different Wildlife exhibits in a single museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/bfbb2ae5d88ee68610377a7011c6a213d5c886a5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5eb23ae334a1b42dbad62c5c36189cae8bf206e7.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "3.5"
+          },
+          "Name_Fish": {
+            "name": "Nomenclature",
+            "description": "Give a fish exhibit a custom name.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/820c322e7754fd8139664260f2df53a3a12bc578.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/4c29bdf5842b8540dc5a377df5353c0b665c4f7e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.3"
+          },
+          "Perked_Up": {
+            "name": "Perked Up",
+            "description": "Install 3 perks on a single exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/0c5c1ca6f81d0672d276414685c8ed3a0983cd54.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/1fa2d7183e0f135ddcaa85bdafda96cc5d14d441.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "30.8"
+          },
+          "Guest_Eaten": {
+            "name": "Plant Food",
+            "description": "Have a guest eaten by a Chomper Pit exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/05bc0ac5cb395c188205cab8793d89db3b311d55.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/336ba8fbdd989aaf6491e77b2ad802b2a63e180e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.1"
+          },
+          "DLC3_Quantity_Over_Quality": {
+            "name": "Please Don’t Touch!",
+            "description": "Display every Famous Art exhibit in a single museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/8a270fd38feabfaf722bc8958346c0aed1257afe.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/69cc130125f345d6820d036b9dd340ecf9f8376c.jpg",
+            "hidden": false,
+            "group": "Update 3",
+            "percent": "0.8"
+          },
+          "Prehistory_Mystery": {
+            "name": "Prehistory Mystery",
+            "description": "Activate a Prehistory Mystery exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5f23e06819e485dd3c7eb1c30529dc69a797369e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/42d6c9e7ab12aaf6be2e589f75a15817876a4298.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "6.5"
+          },
+          "Sell_Out": {
+            "name": "Product Placement",
+            "description": "Earn $10,000 from Sponsored exhibits.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/7a72afb03a176fc982c5ac56bbd847b725b0cfeb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/39585118604a48e1775e51b29ac174b6819b8119.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "34.0"
+          },
+          "Max_Training": {
+            "name": "Qualified Opinion",
+            "description": "Train a member of staff as much as possible.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/bbc4ae45a66a1424839593a99cf941257ff6c545.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/386d78128f52c0b3e7dd53c9f41fe79c7bb911c1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.5"
+          },
+          "DLC1_FinalDragon": {
+            "name": "Raining Dragons",
+            "description": "End the reign of the dragons in Scorched Earth expedition map.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/93dc3290201cba57290a458d5aeab015dae1adb5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b7b47ca8406000597784ab7420f7492db1790f3b.jpg",
+            "hidden": false,
+            "group": "Update 1",
+            "percent": "2.7"
+          },
+          "First_Museum_Act": {
+            "name": "Rising Star",
+            "description": "Complete chapter 1 of Memento Mile museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/f0cfec199586749b79f630ca1d5293b471dedf12.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/400f166d8e37ea5632837799cc91c7e3cfb65bb5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "70.4"
+          },
+          "Five_Act_Desert": {
+            "name": "Science Museum",
+            "description": "Complete chapter 5 of Bungle Wasteland museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/47f438e7a7fb1367e560a18c05d854ddcac0b2d2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/a0cd7bff52fe2c0b38c73eceb4707dbcef345bb7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.1"
+          },
+          "DLC1_FirstDragon": {
+            "name": "Scorched Earth",
+            "description": "Choose to save Fairydale or Wishfell.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/4cf46db3b67438442164757e1486ee61e59ff618.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5a1adf8b6926becdae3625c5f907bee22a7c9d20.jpg",
+            "hidden": true,
+            "group": "Update 1",
+            "percent": "5.8"
+          },
+          "DLC2_Five_Act_Arctic": {
+            "name": "Secret Museum",
+            "description": "Complete chapter 5 of Pointy Mountains.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/bd506793579fba4d4965c0be5cdf576707f81344.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/37a7897d825bddd05bf899b9e85548bc1651d9b1.jpg",
+            "hidden": true,
+            "group": "Update 2",
+            "percent": "2.0"
+          },
+          "Crew_Reunited": {
+            "name": "Silverbottom Reunion",
+            "description": "Reunite Twiggy Silverbottom's expedition team in a single Polterguest Room.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/d023e2e5389f4e8d8f823656132edf6d5d315dda.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/70ff49f96cba5ff048d7295c6c001c600dab5bb8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.3"
+          },
+          "Complete_Skeleton": {
+            "name": "Skill & Bones",
+            "description": "Complete a Dinosaur Bones exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b67c353626dccbf3c097025bd2e0e393da1c19c0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/420851c14fe39406d40c157164e1b148a61b88e8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "79.0"
+          },
+          "DLC2_Animals_Offspring_Count": {
+            "name": "Sorry for the litter…",
+            "description": "Produce 5 Wildlife offspring from a single parent.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5e0c0939f1f5c2b2b9424d67189e9f404321fcf6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/18bd79f3fde31ff9b2e6e9a6f547192ba4ac65b0.jpg",
+            "hidden": false,
+            "group": "Update 2",
+            "percent": "5.0"
+          },
+          "Five_Act_Treetops": {
+            "name": "Space Museum",
+            "description": "Complete chapter 5 of Pebberley Heights museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/e58693cb0ebf6946f6f2a473b1accfeca950e165.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/fa772d1cdc764fedc850fff4aa946c32565e77e7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.5"
+          },
+          "Five_Act_Lodge": {
+            "name": "Supernatural Museum",
+            "description": "Complete chapter 5 of Wailon Lodge museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/a623e72beac5d4825e8eafde3c21572c17b6e6bb.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/3724b8058d44d8ba280b630f9514aabfd7ea6db7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.9"
+          },
+          "Thaw_and_Order": {
+            "name": "Thaw & Order",
+            "description": "Have a donation stand vandalised by a Defrosted Cave-Person.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/216e5fea3f11e7f7b6ebe47307017110f849dcb3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/418917d057d9c651263ac584bc997473f0db3230.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.3"
+          },
+          "Artefact_X": {
+            "name": "The Anomalonians",
+            "description": "Activate the final Astral Anomaly exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/df4a0782704bb66716583b2c729a4b054a16b2af.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/ab158566a8f479b0b27a7181ab1cbff0c504cf56.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "8.7"
+          },
+          "DLC1_NiceDice": {
+            "name": "The Natural",
+            "description": "Roll a \"20\" on the Fates O'Twenty exhibit.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/d64c5a85f6dcde681a29485bc046605098ff6691.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/07fd4eedd424d58be9a19d14811f2f7ed8402b86.jpg",
+            "hidden": true,
+            "group": "Update 1",
+            "percent": "1.1"
+          },
+          "On_Tour": {
+            "name": "Tour de Force",
+            "description": "Create a 5-star tour.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/ec5a1369e740ccf854bf43502bc7e36de60487fa.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/3da7b25593c673c4cc005ac5a1049353999f96a4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.3"
+          },
+          "Five_Act_City": {
+            "name": "Two Point Museum",
+            "description": "Complete chapter 5 of Memento Mile museum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/5c2c26038b1ca83275f6747007308ffc24915e49.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/c7bd0e0405185faad0eb2124636c75bae718e19d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.0"
+          },
+          "Enlightened": {
+            "name": "Uncommon Knowledge",
+            "description": "Reach 30 Enlightenment for any theme.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/34fcf76fe0e570c09382a28a85e30bcfc2c95138.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/e278a91dd157ed691e91b35b05b348bd684d7d5b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "19.1"
+          },
+          "DLC2_Five_Act_Wildlife": {
+            "name": "Wildlife Museum",
+            "description": "Complete chapter 5 of Silverbottom Park.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/62c19047b907d022b9c0e182ef210f07ab19693d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2185060/b5a8ef0e55be61d8b37a070b2516a20108089f20.jpg",
+            "hidden": true,
+            "group": "Update 2",
+            "percent": "3.3"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "Artefact_X": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Buzzin": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Complete_Skeleton": {
+          "earned": true,
+          "earned_time": 1780159074
+        },
+        "County_Fame": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 7,
+          "progress": 0
+        },
+        "Crafty": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 20,
+          "progress": 0
+        },
+        "Crew_Reunited": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC1_FinalDragon": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC1_FirstDragon": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC1_NiceDice": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC2_Animals_Favourite_Carer_Count": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC2_Animals_Offspring_Count": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC2_Five_Act_Arctic": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "DLC2_Five_Act_Wildlife": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "DLC2_POI_Biodiversity_Level_Count": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 15,
+          "progress": 0
+        },
+        "DLC2_Wildlife_Exhibit_Variety": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 30,
+          "progress": 0
+        },
+        "DLC3_FeelingEmotional": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC3_Five_Act_Art": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "DLC3_Frame_It": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DLC3_Model_Employee": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "DLC3_Quantity_Over_Quality": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Discover_Pristine_Exhibit": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Enlightened": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 30,
+          "progress": 0
+        },
+        "First_Museum_Act": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Fish_Breeder": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 10,
+          "progress": 0
+        },
+        "Five_Act_City": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "Five_Act_Coastal": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "Five_Act_Desert": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "Five_Act_Lodge": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "Five_Act_Treetops": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 5,
+          "progress": 0
+        },
+        "Gifted": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gold_Popup": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Guest_Eaten": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Max_Science": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Max_Training": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Multiple_Theme_Museum": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Museum_Level": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "N_POIs_Unlocked": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 25,
+          "progress": 0
+        },
+        "Name_Fish": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "On_Tour": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Out_Patient": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Perked_Up": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Prehistory_Mystery": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Red_Handed": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Robo_Staff": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Sandbox_Museum": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Sell_Out": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 10000,
+          "progress": 0
+        },
+        "Staff_MIA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Stickerbook_Shiny": {
+          "earned": false,
+          "earned_time": 0,
+          "max_progress": 100,
+          "progress": 0
+        },
+        "Thaw_and_Order": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3357650",
+      "info": {
+        "appid": "3357650",
+        "name": "PRAGMATA",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
+        "achievements": {
+          "29": {
+            "name": "A Lunar Challenge",
+            "description": "Complete a mission in a special sector.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/4fe51fd0e2e6730217c142d606830f1f84127a4b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/d4d010aae921d092878604a74ecb4258dad13c47.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.3"
+          },
+          "4": {
+            "name": "Another Pragmata",
+            "description": "Meet the trapped girl.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/387f8ae28fda2625fd336767b6d7f0a472bdca8e.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/481c1e281a3823c7c2e7b553394ae0a3f6b6b698.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "60.8"
+          },
+          "7": {
+            "name": "Awakening",
+            "description": "Fix up Diana.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/d7eb0e953af3dc2f766bd95869c017129fd1a43d.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/b9148bbe2545a36a7de493f73ead9451a7dd181e.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "45.6"
+          },
+          "17": {
+            "name": "Blackout!",
+            "description": "Complete a Cabin Stamp Board.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/5c5e7508a8410f295e11521da039bd30fee61052.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/f19928d0730d1891ec248d64808c0d96b246d582.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "65.2"
+          },
+          "32": {
+            "name": "Can I Borrow That?",
+            "description": "Confuse a certain enemy and borrow its shield.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/d9266cd959f59c2bdf2edfc0a55a662b989d6226.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/8a5e60734f2847bccd51c3e8c3bb6214d7d1c03e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "19.0"
+          },
+          "26": {
+            "name": "Can't Stop, Won't Stop",
+            "description": "Print all obtainable weapons, hacking nodes, and abilities during the main story.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/624885734ed373526dec9dcc92d020784275eaf4.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/896de323e7676e48a475d5d42ba725a04879e017.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.8"
+          },
+          "33": {
+            "name": "Clean Up on Aisle Three",
+            "description": "Cleanse three or more enemies at the same time.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/0b69e553b23c8b70c7cc87871f1d96e245294fb8.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/5f100f72cfe9b471013523b28470bbff22533c33.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.0"
+          },
+          "31": {
+            "name": "Courage in Desperation",
+            "description": "Repel the LunaDigger while progressing through the Lunum Mines.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/7573336f2b5e61b3bf1fc2e3c2f52e6c19d191aa.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/864c5d2994498943753c3ec99e8d1a84534989a1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.4"
+          },
+          "27": {
+            "name": "Cradle Surveyor",
+            "description": "Reach 100% sector progress in a sector.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/f802922113ed1a8e3230dd43ac78b1ae00baeeda.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/7ba0e06ce32860d89387c01d4a65393f5f826b34.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.0"
+          },
+          "5": {
+            "name": "Entrusted Memory",
+            "description": "Get the stop code.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/e683c029ca9d8ab29cda28da1ff157e9262e25d9.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/b357b88e280791c18f3d13551fbfcd56ccb78216.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "56.5"
+          },
+          "28": {
+            "name": "Escape Artist",
+            "description": "Unlock every escape hatch.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/c06473721bb60744a0849b947774925f24a58892.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/bf6703a7293e07e39f4e03378b6fee3c2f0b19a7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "35.3"
+          },
+          "15": {
+            "name": "For Me?",
+            "description": "Give an REM as a present.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/04c2e32cbca7a058619c23aa5bbc72d79e84248c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/e8360ad346eaa2c1c779795d8b60ae2b2a4e8357.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "88.7"
+          },
+          "34": {
+            "name": "IT'S OVER 6000!",
+            "description": "Deal 6000 gunshot damage in one second.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/645161efa56154cb49ab47dccdd9c9985ad82336.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/9600c34602fef0a0b1172d7fc2488fb61fbf5be0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.6"
+          },
+          "11": {
+            "name": "Lunar Supremacy",
+            "description": "Complete the game on Lunatic difficulty.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/96ac902c69224364cfb8613a898e526e333b3ff2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/eb8ca1a48ec91198f3ee9c37a2be8690b595ad64.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "19": {
+            "name": "Master of the Simulator",
+            "description": "Complete the main objective in every Training Sim.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/f354a674560d48b5fd744a12ed4b1a11f19a1e25.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/72c6017ee747383b9728629a2b7e956ab2b34ee9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.5"
+          },
+          "24": {
+            "name": "Mini-Hunter Supreme",
+            "description": "Shoot every Mini Cabin.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/debff352da4523ec2bafc2c34af17eaddefe0549.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/9011799b5dc136450b7ce9782762390f1275f31f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "6": {
+            "name": "Mission Unveiled",
+            "description": "Make it to Nexus Tower.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/eefdbe8df1654c7360c8c31c903183a15ef3fe09.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/cdd0cdaeeafc7e1419f22cf4905232a3003580b0.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "45.8"
+          },
+          "18": {
+            "name": "Mister Simulator",
+            "description": "Complete the main objective in a Training Sim.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/5c3eca74a2bf627902de0349b324f47582e35674.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/797855bd4312147fb5fb2d9e4be40cd91df1960f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "64.6"
+          },
+          "9": {
+            "name": "Our Promise",
+            "description": "Complete the game on any difficulty.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/892f83ee64090be9fb5fb64534a3fd9128c3c4d5.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/070660e75c58978f83bb2dbb490e4eb539069afb.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "37.8"
+          },
+          "14": {
+            "name": "Peekaboo",
+            "description": "Win at hide-and-seek.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/e9006d8f3b202da2acbda9b85b95e5ed6ef698f2.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/bf8e0cdcf0d2046c1e5f379ea29f56c749653cf9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "59.7"
+          },
+          "2": {
+            "name": "Power Trip",
+            "description": "Restore power.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/a2b0ca80472dffd646096010734e3845759c7e2c.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/3360cc6d9cca7f9b98dd0ad795aa8734d09add04.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "87.8"
+          },
+          "20": {
+            "name": "Red-Zoned and Loving It",
+            "description": "Secure a Red Zone.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/4c8d91b9ae1be6b3f4d50e68d3a95ac270c6fe88.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/9a00024b99e75504228205e3731cab9c5be69b5a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "76.0"
+          },
+          "1": {
+            "name": "Rendezvous",
+            "description": "Make it to the Shelter.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/8e572a25aa173e41e70cd5259e3d7ca67af02b66.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/b1f42309cdd8941e6376e4f6080501e268e37e3d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "97.1"
+          },
+          "16": {
+            "name": "Replicating Extraordinaire!",
+            "description": "Complete an REM series.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/6559aaf1b0c1bbc05cdac3e93189a77ce14d5025.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/3d4be638d80556519d8e425c4bf0f57a8673893f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "61.4"
+          },
+          "30": {
+            "name": "Round 'Em Up",
+            "description": "Defeat three enemies at the same time with the Lim Recycler.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/e92866a3a7b1c0ff195816e94ed93d7570b29529.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/7896c6f11f7b408671e28e3cc832266e24ffd47a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "64.0"
+          },
+          "8": {
+            "name": "Sentinel Breach",
+            "description": "Take down the Sentinel.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/5db8a5a4321fcc1185755d396918ceddb37c4652.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/41aea8b0ce78b83224ad22b8b3fd2749b770c700.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.0"
+          },
+          "12": {
+            "name": "Small Talk",
+            "description": "Talk to Diana in the Shelter.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/3f241288d1da620994f6abb79df6d92ecbc61b1b.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/2db7f340aa4cc3cb20b9ab7cb78f5d8376e175f5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "95.1"
+          },
+          "13": {
+            "name": "Thanks for Everything!",
+            "description": "Receive a picture as a present.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/dd1e81999490159e797826a0fe9d34218a2a80ca.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/9cb435cad95a6fd4bfd28869444829fedaeff303.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "81.4"
+          },
+          "3": {
+            "name": "The Purr-fect Guide",
+            "description": "Reach the Comms Tower.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/e83ee1b6324d871c9bd8a5f37286f744917c5776.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/c30f7939ad688cdfd2412dc96356eaf39e186788.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "71.4"
+          },
+          "10": {
+            "name": "The Right Man for the Job",
+            "description": "Complete Unknown Signal.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/64cacb821818f1b660d853e7ee03516b1002b5a3.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/3ae49581d7a6e97cd2591c37367ed62e8d1960f7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.1"
+          },
+          "25": {
+            "name": "Top-Shelf Item",
+            "description": "Upgrade a weapon using Pure Lunum.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/70455d6a233d1e50f275a758eb2e1e374b9e6b00.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/7b8194b5774801607fd046ac2da07bffc005576c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.9"
+          },
+          "22": {
+            "name": "Wall? What Wall?",
+            "description": "Find a Holo-Wall.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/97f3eae4d47842c5ea69875e546dfe8832530739.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/dd734d6a1b3a4f30b60ddb494ca25e0d0901c6df.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "76.0"
+          },
+          "23": {
+            "name": "Well Spotted!",
+            "description": "Shoot a Mini Cabin.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/a534bc58b7d70c1ef700e542af2e6ba3039f0ed6.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/754841a6762f4b6144847e9e3f2e0e89ef63d26a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "74.1"
+          },
+          "35": {
+            "name": "Who Needs Guns!?",
+            "description": "Deal 3000 hacking damage in a single hack.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/ea2903453fd0f1788cf53afd0c6aadc50d413ab0.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.2"
+          },
+          "21": {
+            "name": "You're Not Getting Away That Easy",
+            "description": "Defeat a Sweeper bot.",
+            "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/d6d1ae0d17a981d004d9d481d0b5bb17a6bafc6a.jpg",
+            "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3357650/170a5d2b55e0bcd641959effc2cca478dde48b56.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "36.0"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "1": {
+          "earned": true,
+          "earned_time": 1779962968
+        },
+        "10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "26": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "27": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "31": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    }
+  ]
+}
